@@ -1,7 +1,7 @@
 # tutorial
 Just practicing here. 
 ## Heading
-### Big Heading
+### Heading
 **bold**
 *italics*
 ~~whoops~~
